@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Maki Roll",
+        "price": 800 ,
+        "thumbnail": "https://cdn.cookmonkeys.es/recetas/medium/maki-sushi-3740.jpg",
+        "id": 1
+    },
+
+    {
+        "title": "Buenos Aires Roll",
+        "price": 850 ,
+        "thumbnail": "https://sushipremium.com.ar/wp-content/uploads/2016/02/BUENOS-AIRES.jpg",
+        "id": 2
+    },
+
+    {
+        "title": "Tuna Roll",
+        "price": 750 ,
+        "thumbnail": "https://norwaysushi.com.ar/wp-content/uploads/2020/06/roll-clasico-Tuna-roll.png",
+        "id": 3
+    }
+]
